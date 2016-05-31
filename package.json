@@ -1,0 +1,18 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.0.7",
+    "mongoose": "^4.4.19",
+    "should": "^9.0.0",
+    "sinon": "^1.17.4"
+  }
+}
